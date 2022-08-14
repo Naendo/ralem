@@ -16,4 +16,4 @@ renders["night"] = {
     "northdirection": "lower-right"
 }
 
-outputdir = "O:/ralem/render"
+outputdir = "O:/ralem/docs"

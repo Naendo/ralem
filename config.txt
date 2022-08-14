@@ -1,0 +1,19 @@
+worlds["Ralem"] = "O:/ralem/map/Mein Realm (gsichta) server"
+
+renders["normal"] = {
+    "world": "Ralem",
+    "title": "Day",
+    "rendermode": "smooth-lighting",
+    "crop": (-750, -500, 310, 540),
+    "northdirection": "lower-right"
+}
+
+renders["night"] = {
+    "world": "Ralem",
+    "title": "Night",
+    "rendermode": "smooth_night",
+    "crop": (-750, -500, 310, 540),
+    "northdirection": "lower-right"
+}
+
+outputdir = "O:/ralem/render"
